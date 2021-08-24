@@ -18,4 +18,4 @@ It should look roughly like below
 
 ## Advanced Content
 * Allow the user to double click to toggle between their answer and their last guess. 
-* Allow a user to create a profile that is saved on a server
+* Allow a user to create a profile that is saved on a server along with a summary of incorrect and correct guesses. 
